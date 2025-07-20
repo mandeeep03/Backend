@@ -4,7 +4,7 @@
   "description": "A basic app to deploy",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "keywords": [
     "node"
@@ -12,6 +12,7 @@
   "author": "Mandeep Bhatt",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^17.2.0",
     "express": "^5.1.0"
   }
 }
