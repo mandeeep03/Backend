@@ -9,7 +9,7 @@ This repository documents my progress as I learn backend development with JavaSc
 
 ## Progress
 
-- [Add notes on each video/concept here]
+
 
 ## Future Projects
 
